@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstFlashcard</string>
+    <string name="_60_seconds">60 seconds</string>
+    <string name="how_many_seconds_in_a_minute">How many seconds in a minute?</string>
+</resources>
